@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <hr></hr>
 
-## 😂 Random Dev Joke
+## Random Dev Joke
 
 <div align="center">
   <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%230&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%230&codeColor=%23f9c74f" alt="README Jokes">
