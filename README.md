@@ -2,7 +2,7 @@
 
 I am **Abishek S**, currently in my final year of Electrical Engineering undergraduate at IIT Madras. I am a competitive programmer and interested in Algorithms, Machine Learning, Deep Learning (especially the NLP side), Database Systems, and Operating Systems.
 
-- 🔭 &nbsp; I’m currently working on a Deep Learning Research
+- 🔭 &nbsp; I’m currently working on two Deep Learning Research
 - <img alt="working" src="https://github.com/abisubramanya27/abisubramanya27/blob/master/gif/Developer.gif" width="28" /> I’m currently learning Communication Networks
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
